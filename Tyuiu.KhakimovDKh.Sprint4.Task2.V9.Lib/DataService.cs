@@ -1,4 +1,6 @@
-﻿namespace Tyuiu.KhakimovDKh.Sprint4.Task2.V9.Lib
+﻿
+using tyuiu.cources.programming.interfaces.Sprint4;
+namespace Tyuiu.KhakimovDKh.Sprint4.Task2.V9.Lib
 {
     public class DataService : ISprint4Task2V9
     {
