@@ -3,16 +3,6 @@
 
 namespace Tyuiu.KhakimovDKh.Sprint4.Task4.V21.Test
 {
-
-
-
-
-
-
-
-
-}
-
     [TestClass]
     public class DataServiceTest
     {
@@ -28,3 +18,6 @@ namespace Tyuiu.KhakimovDKh.Sprint4.Task4.V21.Test
             Assert.AreEqual(sumWait, res);
         }
     }
+
+}
+
